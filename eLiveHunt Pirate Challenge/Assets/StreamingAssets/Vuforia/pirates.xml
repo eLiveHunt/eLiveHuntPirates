@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="testvuforia" size="20.000000 11.250000" />
+    <ImageTarget name="6ssss" size="20.000000 11.250000" />
+    <ImageTarget name="WhatsApp" size="20.000000 11.296875" />
+    <ImageTarget name="test7" size="20.000000 11.250000" />
+    <ImageTarget name="test6" size="20.000000 11.250000" />
+    <ImageTarget name="test5" size="20.000000 11.250000" />
+    <ImageTarget name="enigmebagues" size="20.000000 11.250000" />
+    <ImageTarget name="enigme_carte" size="20.000000 11.250000" />
+    <ImageTarget name="enigmestarfish" size="20.000000 11.250000" />
+    <ImageTarget name="grottemytho" size="20.000000 11.250000" />
+    <ImageTarget name="enigme_direction" size="20.000000 11.250000" />
+    <ImageTarget name="enigme_clown" size="20.000000 11.250000" />
+    <ImageTarget name="pirate_test" size="20.000000 11.250000" />
+    <ImageTarget name="grotte" size="20.000000 14.096774" />
+    <ImageTarget name="bateau" size="20.000000 14.096774" />
+  </Tracking>
+</QCARConfig>
